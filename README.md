@@ -1,5 +1,5 @@
 # SoftSynth
-[!alt text](https://github.com/sgala97/SoftSynth/media/SoftSynthLogo.png)
+![alt text](https://github.com/sgala97/SoftSynth/blob/main/media/SoftSynthLogo.png?raw=true)
 A simple software synthesizer.
 Characteristics:
 - MIDI input.
@@ -25,4 +25,4 @@ cmake --build build
 ```
 
 ## Interface
-[!alt text](https://github.com/sgala97/SoftSynth/media/SoftSynthImage.png)
+![alt text](https://github.com/sgala97/SoftSynth/blob/main/media/SoftSynthImage.png?raw=true)
