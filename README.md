@@ -1,2 +1,28 @@
 # SoftSynth
-A simple software synthesizer
+[!alt text](https://github.com/sgala97/SoftSynth/media/SoftSynthLogo.png)
+A simple software synthesizer.
+Characteristics:
+- MIDI input.
+- Polyphonic.
+- Two oscillators: Sine, Sawtooth, Square, Triangle, Custom (using harmonics)
+- White Noise.
+- ADSR envelope.
+- LFO Amplitude modulation.
+- LFO Frequency modulation.
+- Delay effect.
+- Low pass, high pass, band pass filter.
+
+## Builing Requirements
+- CMake
+- C++17
+- Linux gcc/g++
+- See Also: [Dependencies](https://github.com/juce-framework/JUCE/blob/master/docs/Linux%20Dependencies.md)
+
+## Building
+```bash
+cmake -DCMAKE_BUILD_TYPE=Release -B build
+cmake --build build
+```
+
+## Interface
+[!alt text](https://github.com/sgala97/SoftSynth/media/SoftSynthImage.png)
