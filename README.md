@@ -1,5 +1,6 @@
 # SoftSynth
 ![alt text](https://github.com/sgala97/SoftSynth/blob/main/media/SoftSynthLogo.png?raw=true)
+
 A simple software synthesizer.
 Characteristics:
 - MIDI input.
